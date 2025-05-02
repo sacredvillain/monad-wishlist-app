@@ -491,10 +491,10 @@
     tslib "2.8.1"
     uid "2.0.2"
 
-"@next/env@14.2.6":
-  version "14.2.6"
-  resolved "https://registry.npmjs.org/@next/env/-/env-14.2.6.tgz"
-  integrity sha512-bs5DFKV+08EjWrl8EB+KKqev1ZTNONH1vFCaHh911aaB362NnP32UDTbE9VQhyiAgbFqJsfDkSxFERNDDb3j0g==
+"@next/env@14.2.28":
+  version "14.2.28"
+  resolved "https://registry.npmjs.org/@next/env/-/env-14.2.28.tgz"
+  integrity sha512-PAmWhJfJQlP+kxZwCjrVd9QnR5x0R3u0mTXTiZDgSd4h5LdXmjxCCWbN9kq6hkZBOax8Rm3xDW5HagWyJuT37g==
 
 "@next/eslint-plugin-next@14.2.6":
   version "14.2.6"
@@ -503,10 +503,10 @@
   dependencies:
     glob "10.3.10"
 
-"@next/swc-win32-x64-msvc@14.2.6":
-  version "14.2.6"
-  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.6.tgz"
-  integrity sha512-NANtw+ead1rSDK1jxmzq3TYkl03UNK2KHqUYf1nIhNci6NkeqBD4s1njSzYGIlSHxCK+wSaL8RXZm4v+NF/pMw==
+"@next/swc-win32-x64-msvc@14.2.28":
+  version "14.2.28"
+  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.28.tgz"
+  integrity sha512-1gCmpvyhz7DkB1srRItJTnmR2UwQPAUXXIg9r0/56g3O8etGmwlX68skKXJOp9EejW3hhv7nSQUJ2raFiz4MoA==
 
 "@neynar/nodejs-sdk@^2.33.1":
   version "2.33.1"
@@ -3799,12 +3799,12 @@ neverthrow@^6.1.0:
   resolved "https://registry.npmjs.org/neverthrow/-/neverthrow-6.2.2.tgz"
   integrity sha512-POR1FACqdK9jH0S2kRPzaZEvzT11wsOxLW520PQV/+vKi9dQe+hXq19EiOvYx7lSRaF5VB9lYGsPInynrnN05w==
 
-next@14.2.6:
-  version "14.2.6"
-  resolved "https://registry.npmjs.org/next/-/next-14.2.6.tgz"
-  integrity sha512-57Su7RqXs5CBKKKOagt8gPhMM3CpjgbeQhrtei2KLAA1vTNm7jfKS+uDARkSW8ZETUflDCBIsUKGSyQdRs4U4g==
+next@^14.2.28:
+  version "14.2.28"
+  resolved "https://registry.npmjs.org/next/-/next-14.2.28.tgz"
+  integrity sha512-QLEIP/kYXynIxtcKB6vNjtWLVs3Y4Sb+EClTC/CSVzdLD1gIuItccpu/n1lhmduffI32iPGEK2cLLxxt28qgYA==
   dependencies:
-    "@next/env" "14.2.6"
+    "@next/env" "14.2.28"
     "@swc/helpers" "0.5.5"
     busboy "1.6.0"
     caniuse-lite "^1.0.30001579"
@@ -3812,15 +3812,15 @@ next@14.2.6:
     postcss "8.4.31"
     styled-jsx "5.1.1"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "14.2.6"
-    "@next/swc-darwin-x64" "14.2.6"
-    "@next/swc-linux-arm64-gnu" "14.2.6"
-    "@next/swc-linux-arm64-musl" "14.2.6"
-    "@next/swc-linux-x64-gnu" "14.2.6"
-    "@next/swc-linux-x64-musl" "14.2.6"
-    "@next/swc-win32-arm64-msvc" "14.2.6"
-    "@next/swc-win32-ia32-msvc" "14.2.6"
-    "@next/swc-win32-x64-msvc" "14.2.6"
+    "@next/swc-darwin-arm64" "14.2.28"
+    "@next/swc-darwin-x64" "14.2.28"
+    "@next/swc-linux-arm64-gnu" "14.2.28"
+    "@next/swc-linux-arm64-musl" "14.2.28"
+    "@next/swc-linux-x64-gnu" "14.2.28"
+    "@next/swc-linux-x64-musl" "14.2.28"
+    "@next/swc-win32-arm64-msvc" "14.2.28"
+    "@next/swc-win32-ia32-msvc" "14.2.28"
+    "@next/swc-win32-x64-msvc" "14.2.28"
 
 node-addon-api@^2.0.0:
   version "2.0.2"
