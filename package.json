@@ -16,6 +16,7 @@
     "@farcaster/frame-wagmi-connector": "^0.0.24",
     "@neynar/nodejs-sdk": "^2.33.1",
     "@tanstack/react-query": "^5.64.2",
+    "@wagmi/core": "^2.16.5",
     "dotenv": "^16.5.0",
     "ethers": "^6.13.7",
     "next": "^14.2.28",
